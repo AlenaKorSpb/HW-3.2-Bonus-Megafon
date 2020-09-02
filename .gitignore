@@ -30,7 +30,7 @@ out/
 
 ### VS Code ###
 .vscode/
-
+git add
 ### Package Files ###
 *.jar
 *.war
